@@ -70,7 +70,7 @@ public class ScaleBarPainterController extends AbstractController {
 
     // The defaults if there is nothing in the preferences
     public static String DEFAULT_FONT_NAME = "sansserif";
-    public static int DEFAULT_FONT_SIZE = 10;
+    public static int DEFAULT_FONT_SIZE = 20;
     public static int DEFAULT_FONT_STYLE = Font.PLAIN;
 
     public static String DEFAULT_NUMBER_FORMATTING = "#.####";
